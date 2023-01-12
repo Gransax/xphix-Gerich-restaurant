@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
-import './SpecialMenu.css';
+import "./SpecialMenu.css";
 
-const SpecialMenu = () => (
-  <div>
-    SpecialMenu
-  </div>
-);
+const SpecialMenu = () => <div>SpecialMenu</div>;
 
 export default SpecialMenu;
